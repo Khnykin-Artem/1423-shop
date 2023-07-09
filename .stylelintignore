@@ -1,0 +1,3 @@
+dist/css/*.css
+src/styles/fonts.scss
+src/styles/normalize.scss
